@@ -1,0 +1,10 @@
+a = int(input('inter the fist number:'))
+b = int(input('inter the second number:'))
+
+print('add (+) =', a + b)
+print('subract (-) =', a - b) 
+print('multiply (*) =', a * b)
+print('divide (/) =', a / b)
+print('Floor Division (//) =', a // b)
+print('Percentage (%) =', a % b)
+print('exponentiation (**) =', a ** b)
